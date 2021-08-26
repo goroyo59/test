@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-08-26T07:31:10.092Z" agent="5.0 (X11)" etag="slgDL4EM0vdCKb5RojV5" version="14.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-26T07:36:13.042Z" agent="5.0 (X11)" etag="usomytL9zwXXIu4OnboL" version="14.9.9" type="github">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
     <mxGraphModel dx="2274" dy="1206" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
         <mxCell id="1672d66443f91eb5-23" value="DIAGRAMME DE CAS D&#39;UTILISATION DU SITE JAY-TECH" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="120" y="40" width="1510" height="40" as="geometry" />
+          <mxGeometry x="120" y="40" width="1070" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gSugVb6bQrnSpipGz4Ar-4" value="client" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="90" y="810" width="30" height="60" as="geometry" />
@@ -229,16 +229,16 @@
         <mxCell id="xs5q5Ge5YjY0k9qzKYR2-53" value="extends" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="480" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="xs5q5Ge5YjY0k9qzKYR2-56" value="" style="endArrow=none;html=1;entryX=0.661;entryY=1.136;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.025;exitY=1.136;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1672d66443f91eb5-23" target="1672d66443f91eb5-23">
+        <mxCell id="xs5q5Ge5YjY0k9qzKYR2-56" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="170" as="sourcePoint" />
-            <mxPoint x="1120" y="160" as="targetPoint" />
+            <mxPoint x="160" y="85" as="sourcePoint" />
+            <mxPoint x="1120" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xs5q5Ge5YjY0k9qzKYR2-57" value="" style="endArrow=none;html=1;entryX=0.023;entryY=1.136;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="1672d66443f91eb5-23">
+        <mxCell id="xs5q5Ge5YjY0k9qzKYR2-57" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="160" y="1200" as="sourcePoint" />
-            <mxPoint x="570" y="680" as="targetPoint" />
+            <mxPoint x="160" y="85" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xs5q5Ge5YjY0k9qzKYR2-58" value="" style="endArrow=none;html=1;" edge="1" parent="1">
@@ -249,8 +249,8 @@
         </mxCell>
         <mxCell id="xs5q5Ge5YjY0k9qzKYR2-61" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1120" y="1190" as="sourcePoint" />
-            <mxPoint x="1120" y="90" as="targetPoint" />
+            <mxPoint x="1120" y="1200" as="sourcePoint" />
+            <mxPoint x="1120" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xs5q5Ge5YjY0k9qzKYR2-62" value="SITE JAY-TECH" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1" vertex="1" parent="1">
